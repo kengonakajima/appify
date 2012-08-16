@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleExecutable</key>
-	<string>example</string>
+	<string>execscript</string>
 	<key>CFBundleIconFile</key>
 	<string>catimage.icns</string>
 	<key>CFBundleIdentifier</key>
